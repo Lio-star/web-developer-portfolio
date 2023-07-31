@@ -142,3 +142,16 @@ main{
     margin: 130px 0;
 }
 
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+  text-align: center;
+}
+.info-tittle{
+    color:  #757575;
+}
+.info-description{
+    color:  #474747;
+}
