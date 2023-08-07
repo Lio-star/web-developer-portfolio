@@ -197,3 +197,34 @@ main{
     font-weight: 700;
 
 }
+.resume-container{
+    display: flex;
+    gap: 50;
+    color: #474747;
+   
+}
+
+.resume-column2{
+    
+    margin-left: 50px;
+}
+.resume-item-tittle{
+    font-size: 25px;
+    font-weight: 700;
+    font-family: Open Sans;
+   
+}
+
+.resume-item-institute{
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 600;
+     
+}
+.resume-item-description{
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px; 
+    margin-bottom: 50px;
+}
