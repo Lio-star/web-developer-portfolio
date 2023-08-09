@@ -44,6 +44,7 @@ nav{
    font-size: 20px;
    font-weight: 700;
    padding: 15px;
+   color: #FFF;
 }
 .nav-tittle{
     color: var(--dark-01, #202020);
@@ -227,4 +228,44 @@ main{
     font-weight: 400;
     line-height: 28px; 
     margin-bottom: 50px;
+}
+
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+   
+}
+.footer{
+   display: flex;
+   justify-content: space-between;
+   margin-top: 130px;
+   color: #181818;
+   background-color: #FFF8F3;
+   
+ 
+   
+
+}
+.section-tittle1{
+    margin-left: 400px;
+    font-size: 35px;
+    font-weight: 700;
+    margin-top: 130px;
+    
+}
+
+.section-tittle2{
+    margin-right: 450px;
+    font-size: 35px;
+    font-weight: 700;
+    margin-top: 130px;
+    
+}
+.description{
+    margin-left: 400px;
+    color: #474747;
+}
+.icon-part{
+    margin-left: 395px;
+    margin-top: 30px;
 }
